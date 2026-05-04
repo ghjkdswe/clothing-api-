@@ -1,0 +1,232 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Men Oversized Cotton T-Shirt",
+      "price": 19.99,
+      "description": "Premium oversized cotton t-shirt.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 220}
+    },
+    {
+      "id": 2,
+      "title": "Men Denim Jacket",
+      "price": 49.99,
+      "description": "Classic denim jacket.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 245}
+    },
+    {
+      "id": 3,
+      "title": "Men Black Hoodie",
+      "price": 39.99,
+      "description": "Comfortable hoodie.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=3840&q=100",
+      "rating": {"rate": 4.7, "count": 310}
+    },
+    {
+      "id": 4,
+      "title": "Men Slim Fit Jeans",
+      "price": 42.50,
+      "description": "Stretch slim jeans.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1542272604-787c3835535d?w=3840&q=100",
+      "rating": {"rate": 4.3, "count": 175}
+    },
+    {
+      "id": 5,
+      "title": "Men Formal White Shirt",
+      "price": 34.99,
+      "description": "Clean formal shirt.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 190}
+    },
+    {
+      "id": 6,
+      "title": "Men Sports Joggers",
+      "price": 29.99,
+      "description": "Lightweight joggers for sports.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?w=3840&q=100",
+      "rating": {"rate": 4.2, "count": 150}
+    },
+
+    {
+      "id": 7,
+      "title": "Women Floral Summer Dress",
+      "price": 39.99,
+      "description": "Light summer dress.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1515372039744-b8f02a3ae446?w=3840&q=100",
+      "rating": {"rate": 4.8, "count": 320}
+    },
+    {
+      "id": 8,
+      "title": "Women Casual Blouse",
+      "price": 24.99,
+      "description": "Elegant blouse.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=3840&q=100",
+      "rating": {"rate": 4.2, "count": 150}
+    },
+    {
+      "id": 9,
+      "title": "Women Knit Cardigan",
+      "price": 34.99,
+      "description": "Soft cardigan.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1434389677669-e08b4cac3105?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 198}
+    },
+    {
+      "id": 10,
+      "title": "Women Pleated Skirt",
+      "price": 29.99,
+      "description": "Stylish skirt.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1583496661160-fb5886a13d27?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 210}
+    },
+    {
+      "id": 11,
+      "title": "Women Oversized Sweater",
+      "price": 36.99,
+      "description": "Cozy sweater.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1608234808654-2a8875faa7fd?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 260}
+    },
+    {
+      "id": 12,
+      "title": "Women Yoga Leggings",
+      "price": 22.99,
+      "description": "Stretch yoga leggings.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1506629905607-5c9d8f5f7c91?w=3840&q=100",
+      "rating": {"rate": 4.7, "count": 300}
+    },
+    {
+      "id": 13,
+      "title": "Women Denim Jacket",
+      "price": 45.99,
+      "description": "Stylish denim jacket.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 210}
+    },
+
+    {
+      "id": 14,
+      "title": "Kids Cartoon T-Shirt",
+      "price": 12.99,
+      "description": "Cute kids t-shirt.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=3840&q=100",
+      "rating": {"rate": 4.8, "count": 275}
+    },
+    {
+      "id": 15,
+      "title": "Kids Hoodie Jacket",
+      "price": 27.50,
+      "description": "Warm hoodie.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 160}
+    },
+    {
+      "id": 16,
+      "title": "Kids Denim Overalls",
+      "price": 29.99,
+      "description": "Denim overalls.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 190}
+    },
+    {
+      "id": 17,
+      "title": "Kids Puffer Jacket",
+      "price": 35.99,
+      "description": "Puffer jacket.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 145}
+    },
+    {
+      "id": 18,
+      "title": "Kids Casual Shorts",
+      "price": 15.99,
+      "description": "Casual shorts.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?w=3840&q=100",
+      "rating": {"rate": 4.3, "count": 132}
+    },
+    {
+      "id": 19,
+      "title": "Kids Sneakers",
+      "price": 28.99,
+      "description": "Comfortable sneakers.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1528701800489-20be3c6ecfa4?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 175}
+    },
+
+    {
+      "id": 20,
+      "title": "Men Running Shoes",
+      "price": 59.99,
+      "description": "Lightweight running shoes.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1528701800489-20be3c6ecfa4?w=3840&q=100",
+      "rating": {"rate": 4.7, "count": 310}
+    },
+    {
+      "id": 21,
+      "title": "Women High Heels",
+      "price": 54.99,
+      "description": "Elegant high heels.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1528701800489-20be3c6ecfa4?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 200}
+    },
+    {
+      "id": 22,
+      "title": "Men Sunglasses",
+      "price": 19.99,
+      "description": "Stylish sunglasses.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1511499767150-a48a237f0083?w=3840&q=100",
+      "rating": {"rate": 4.2, "count": 145}
+    },
+    {
+      "id": 23,
+      "title": "Women Handbag",
+      "price": 49.99,
+      "description": "Fashion handbag.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 280}
+    },
+    {
+      "id": 24,
+      "title": "Men Cap",
+      "price": 14.99,
+      "description": "Casual baseball cap.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1520974735194-8f0c9c45c8a7?w=3840&q=100",
+      "rating": {"rate": 4.3, "count": 120}
+    },
+    {
+      "id": 25,
+      "title": "Kids Backpack",
+      "price": 22.99,
+      "description": "School backpack.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 160}
+    }
+  ]
+}
