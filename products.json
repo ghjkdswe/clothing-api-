@@ -6,7 +6,7 @@
       "price": 19.99,
       "description": "Premium oversized cotton t-shirt.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=3840&q=100",
+      "image": "https://eliteelevensporting.com/cdn/shop/files/EE-100_Cotton-PremiumEcomm_1679.jpg?v=1751948731&width=1080",
       "rating": {"rate": 4.5, "count": 220}
     },
     {
@@ -228,5 +228,183 @@
       "image": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=3840&q=100",
       "rating": {"rate": 4.5, "count": 160}
     }
-  ]
-}
+    {
+      "id": 26,
+      "title": "Women Leather Jacket",
+      "price": 69.99,
+      "description": "Premium leather jacket.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=3840&q=100",
+      "rating": {"rate": 4.7, "count": 280}
+    },
+    {
+      "id": 27,
+      "title": "Men Cargo Pants",
+      "price": 44.99,
+      "description": "Comfortable cargo pants.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 190}
+    },
+    {
+      "id": 28,
+      "title": "Women Crop Top",
+      "price": 18.99,
+      "description": "Casual crop top.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=3840&q=100",
+      "rating": {"rate": 4.3, "count": 140}
+    },
+    {
+      "id": 29,
+      "title": "Kids Winter Boots",
+      "price": 31.99,
+      "description": "Warm winter boots.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 170}
+    },
+    {
+      "id": 30,
+      "title": "Men Plaid Shirt",
+      "price": 26.99,
+      "description": "Classic plaid shirt.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 185}
+    },
+    {
+      "id": 31,
+      "title": "Women Sneakers",
+      "price": 49.99,
+      "description": "Trendy white sneakers.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 250}
+    },
+    {
+      "id": 32,
+      "title": "Men Bomber Jacket",
+      "price": 59.99,
+      "description": "Modern bomber jacket.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1551537482-f2075a1d41f2?w=3840&q=100",
+      "rating": {"rate": 4.7, "count": 300}
+    },
+    {
+      "id": 33,
+      "title": "Women Silk Scarf",
+      "price": 16.99,
+      "description": "Elegant silk scarf.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=3840&q=100",
+      "rating": {"rate": 4.2, "count": 110}
+    },
+    {
+      "id": 34,
+      "title": "Kids Raincoat",
+      "price": 24.99,
+      "description": "Waterproof raincoat.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 150}
+    },
+    {
+      "id": 35,
+      "title": "Men Polo Shirt",
+      "price": 27.99,
+      "description": "Breathable polo shirt.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 210}
+    },
+    {
+      "id": 36,
+      "title": "Women Wide Leg Pants",
+      "price": 38.99,
+      "description": "Comfortable wide leg pants.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 225}
+    },
+    {
+      "id": 37,
+      "title": "Kids Graphic Hoodie",
+      "price": 29.99,
+      "description": "Fun graphic hoodie.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 160}
+    },
+    {
+      "id": 38,
+      "title": "Men Leather Wallet",
+      "price": 21.99,
+      "description": "Slim leather wallet.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1627123424574-724758594e93?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 180}
+    },
+    {
+      "id": 39,
+      "title": "Women Tote Bag",
+      "price": 35.99,
+      "description": "Minimalist tote bag.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=3840&q=100",
+      "rating": {"rate": 4.7, "count": 295}
+    },
+    {
+      "id": 40,
+      "title": "Men Chino Shorts",
+      "price": 23.99,
+      "description": "Casual chino shorts.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=3840&q=100",
+      "rating": {"rate": 4.2, "count": 135}
+    },
+    {
+      "id": 41,
+      "title": "Women Satin Dress",
+      "price": 52.99,
+      "description": "Elegant satin dress.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=3840&q=100",
+      "rating": {"rate": 4.8, "count": 340}
+    },
+    {
+      "id": 42,
+      "title": "Kids Pajama Set",
+      "price": 18.50,
+      "description": "Soft pajama set.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?w=3840&q=100",
+      "rating": {"rate": 4.3, "count": 125}
+    },
+    {
+      "id": 43,
+      "title": "Men Hiking Boots",
+      "price": 74.99,
+      "description": "Durable hiking boots.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=3840&q=100",
+      "rating": {"rate": 4.7, "count": 310}
+    },
+    {
+      "id": 44,
+      "title": "Women Sandals",
+      "price": 28.99,
+      "description": "Comfortable summer sandals.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 175}
+    },
+    {
+      "id": 45,
+      "title": "Kids Baseball Cap",
+      "price": 13.99,
+      "description": "Adjustable baseball cap.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1520974735194-8f0c9c45c8a7?w=3840&q=100",
+      "rating": {"rate": 4.2, "count": 118}
+    }
