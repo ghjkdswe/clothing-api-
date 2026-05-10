@@ -407,6 +407,33 @@
       "category": "Kids",
       "image": "https://images.unsplash.com/photo-1520974735194-8f0c9c45c8a7?w=3840&q=100",
       "rating": {"rate": 4.2, "count": 118}
+    },
+    {
+      "id": 46,
+      "title": "Men Vintage Sweater",
+      "price": 41.99,
+      "description": "Warm vintage knit sweater.",
+      "category": "Men",
+      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=3840&q=100",
+      "rating": {"rate": 4.5, "count": 205}
+    },
+    {
+      "id": 47,
+      "title": "Women Denim Shorts",
+      "price": 25.99,
+      "description": "Comfortable denim shorts.",
+      "category": "Women",
+      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=3840&q=100",
+      "rating": {"rate": 4.4, "count": 188}
+    },
+    {
+      "id": 48,
+      "title": "Kids School Shoes",
+      "price": 32.99,
+      "description": "Durable school shoes.",
+      "category": "Kids",
+      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=3840&q=100",
+      "rating": {"rate": 4.6, "count": 210}
     }
   ]
   }
