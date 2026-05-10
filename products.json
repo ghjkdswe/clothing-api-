@@ -15,7 +15,7 @@
       "price": 49.99,
       "description": "Classic denim jacket.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1543076447-215ad9ba6923?w=3840&q=100",
+      "image": "https://freenotecloth.com/cdn/shop/products/untitled-28.jpg?v=1671127725&width=2048",
       "rating": {"rate": 4.6, "count": 245}
     },
     {
@@ -24,7 +24,7 @@
       "price": 39.99,
       "description": "Comfortable hoodie.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1556821840-3a63f95609a7?w=3840&q=100",
+      "image": "https://www.pursuefitness.com/cdn/shop/files/oversized-hoodie-black-mens_1200x1200.jpg?v=1691625713",
       "rating": {"rate": 4.7, "count": 310}
     },
     {
@@ -42,7 +42,7 @@
       "price": 34.99,
       "description": "Clean formal shirt.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1602810318383-e386cc2a3ccf?w=3840&q=100",
+      "image": "https://www.nicksonshirts.com/wp-content/uploads/2020/12/Formal-Straight-Point-Collar-White-Front-Mannequin-1.jpg",
       "rating": {"rate": 4.4, "count": 190}
     },
     {
@@ -51,7 +51,7 @@
       "price": 29.99,
       "description": "Lightweight joggers for sports.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1552374196-c4e7ffc6e126?w=3840&q=100",
+      "image": "https://image.hm.com/assets/hm/15/ff/15ffa330faac22da5b71cb9e4add0a24600717f4.jpg?imwidth=2160",
       "rating": {"rate": 4.2, "count": 150}
     },
 
@@ -70,7 +70,7 @@
       "price": 24.99,
       "description": "Elegant blouse.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1551488831-00ddcb6c6bd3?w=3840&q=100",
+      "image": "https://m.media-amazon.com/images/I/716vq40BGCL._AC_UY1000_.jpg",
       "rating": {"rate": 4.2, "count": 150}
     },
     {
@@ -88,7 +88,7 @@
       "price": 29.99,
       "description": "Stylish skirt.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1583496661160-fb5886a13d27?w=3840&q=100",
+      "image": "https://euro.saintandsofia.com/cdn/shop/files/eliza-pleated-skirt-cream-women-s-skirts-saint-sofia-eu-1158712733.jpg?v=1745496413&width=5760",
       "rating": {"rate": 4.4, "count": 210}
     },
     {
@@ -106,7 +106,7 @@
       "price": 22.99,
       "description": "Stretch yoga leggings.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1506629905607-5c9d8f5f7c91?w=3840&q=100",
+      "image": "https://media.bostonproper.com/i/bostonproper/2BA1120_1?w=1400&fmt=auto",
       "rating": {"rate": 4.7, "count": 300}
     },
     {
@@ -115,7 +115,7 @@
       "price": 45.99,
       "description": "Stylish denim jacket.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1520975916090-3105956dac38?w=3840&q=100",
+      "image": "https://m.media-amazon.com/images/I/71X9Kk2ESsL._AC_UF894,1000_QL80_.jpg",
       "rating": {"rate": 4.5, "count": 210}
     },
 
@@ -134,7 +134,7 @@
       "price": 27.50,
       "description": "Warm hoodie.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1503944583220-79d8926ad5e2?w=3840&q=100",
+      "image": "https://img.kwcdn.com/product/fancy/5a3e28fe-1b8b-459c-8bf7-b4930b00c159.jpg?imageMogr2/auto-orient%7CimageView2/2/w/800/q/70/format/webp",
       "rating": {"rate": 4.4, "count": 160}
     },
     {
@@ -143,7 +143,7 @@
       "price": 29.99,
       "description": "Denim overalls.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?w=3840&q=100",
+      "image": "https://olliesplace.com.au/cdn/shop/files/Boys_-Denim-Overalls-Ollies-Place-48829098.jpg",
       "rating": {"rate": 4.6, "count": 190}
     },
     {
@@ -152,7 +152,7 @@
       "price": 35.99,
       "description": "Puffer jacket.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1519457431-44ccd64a579b?w=3840&q=100",
+      "image": "https://cdn.shopify.com/s/files/1/0304/3013/4331/products/the-puffer-jacket_navy_P.jpg?v=1764771289",
       "rating": {"rate": 4.5, "count": 145}
     },
     {
@@ -161,7 +161,7 @@
       "price": 15.99,
       "description": "Casual shorts.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?w=3840&q=100",
+      "image": "https://cdn13.nnnow.com/web-images/large/styles/DDTJHQGDUTU/1752146035938/4.jpg",
       "rating": {"rate": 4.3, "count": 132}
     },
     {
@@ -170,7 +170,7 @@
       "price": 28.99,
       "description": "Comfortable sneakers.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1528701800489-20be3c6ecfa4?w=3840&q=100",
+      "image": "https://www.campusshoes.com/cdn/shop/files/BRUNO_K_22K-196_RSLATE-ICE_BLU_01_1024x.webp?v=1775725980",
       "rating": {"rate": 4.6, "count": 175}
     },
 
@@ -180,7 +180,7 @@
       "price": 59.99,
       "description": "Lightweight running shoes.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1528701800489-20be3c6ecfa4?w=3840&q=100",
+      "image": "https://i5.walmartimages.com/seo/PEASKJP-Men-s-Shoes-Outdoor-Sports-Shoes-Breathable-Non-Slip-Lightweight-Mesh-Casual-Shoes-Training-Shoes-Red-43_effaa1cd-c30e-4b00-9283-62a729e77637.51e4bd2a5f7e74e20bd57432d3bdc378.jpeg",
       "rating": {"rate": 4.7, "count": 310}
     },
     {
@@ -189,7 +189,7 @@
       "price": 54.99,
       "description": "Elegant high heels.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1528701800489-20be3c6ecfa4?w=3840&q=100",
+      "image": "https://bravomoda.eu/4291/elegant-women-s-black-high-heels-with-pointed-toes.jpg",
       "rating": {"rate": 4.5, "count": 200}
     },
     {
@@ -216,7 +216,7 @@
       "price": 14.99,
       "description": "Casual baseball cap.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1520974735194-8f0c9c45c8a7?w=3840&q=100",
+      "image": "https://img01.ztat.net/article/spp-media-p1/8bf4f94f71604e52a185eb1c57a4ee84/ea5202034de248ec95ebdf35e799397b.jpg?imwidth=762",
       "rating": {"rate": 4.3, "count": 120}
     },
     {
@@ -225,7 +225,7 @@
       "price": 22.99,
       "description": "School backpack.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1581605405669-fcdf81165afa?w=3840&q=100",
+      "image": "https://bornyesterdaykids.com/cdn/shop/files/image_b7fd9a60-5a58-4d57-b728-21ab6c6da762_1024x1024.png?v=1682629290",
       "rating": {"rate": 4.5, "count": 160}
     },
     {
@@ -234,7 +234,7 @@
       "price": 69.99,
       "description": "Premium leather jacket.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=3840&q=100",
+      "image": "https://vspatelier.com/cdn/shop/files/FUA1538.webp?v=1741269393",
       "rating": {"rate": 4.7, "count": 280}
     },
     {
@@ -243,7 +243,7 @@
       "price": 44.99,
       "description": "Comfortable cargo pants.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1515886657613-9f3515b0c78f?w=3840&q=100",
+      "image": "https://beyondriders.com/cdn/shop/files/Men_s_Cargo_Black_Realxed_Fit__Januray_2024__Front.jpg?v=1753364509",
       "rating": {"rate": 4.4, "count": 190}
     },
     {
@@ -252,7 +252,7 @@
       "price": 18.99,
       "description": "Casual crop top.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=3840&q=100",
+      "image": "https://www.shopamericanthreads.com/cdn/shop/products/rachel-tan-ribbed-long-sleeve-crop-top-levi_s-501-90s-shorts-in-black-worn-in-01.jpg?v=1735362241",
       "rating": {"rate": 4.3, "count": 140}
     },
     {
@@ -261,7 +261,7 @@
       "price": 31.99,
       "description": "Warm winter boots.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=3840&q=100",
+      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxHXdYq9QvDNsvnA_t2B8M4lLR8tylkKYRnw&s",
       "rating": {"rate": 4.5, "count": 170}
     },
     {
@@ -270,7 +270,7 @@
       "price": 26.99,
       "description": "Classic plaid shirt.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1603252109303-2751441dd157?w=3840&q=100",
+      "image": "https://www.vermontflannel.com/cdn/shop/files/VFC_Mens-Classic_Red-Buffalo_Model-Silo_1_Crop.jpg?v=1772219250&width=1445",
       "rating": {"rate": 4.4, "count": 185}
     },
     {
@@ -279,7 +279,7 @@
       "price": 49.99,
       "description": "Trendy white sneakers.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=3840&q=100",
+      "image": "https://www.blackstonefootwear.com/media/21/f2/c4/1770907539/ss26-women-runner-sneakers.jpg?ts=1770907539",
       "rating": {"rate": 4.6, "count": 250}
     },
     {
@@ -297,7 +297,7 @@
       "price": 16.99,
       "description": "Elegant silk scarf.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1521572267360-ee0c2909d518?w=3840&q=100",
+      "image": "https://econica.ca/cdn/shop/files/ContemporarySilkScarf1.jpg?v=1714412063",
       "rating": {"rate": 4.2, "count": 110}
     },
     {
@@ -306,7 +306,7 @@
       "price": 24.99,
       "description": "Waterproof raincoat.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1503919545889-aef636e10ad4?w=3840&q=100",
+      "image": "https://m.media-amazon.com/images/I/61cWlsDd5wL.jpg",
       "rating": {"rate": 4.4, "count": 150}
     },
     {
@@ -315,7 +315,7 @@
       "price": 27.99,
       "description": "Breathable polo shirt.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1523381210434-271e8be1f52b?w=3840&q=100",
+      "image": "https://cdn2.propercloth.com/pic_cs/321e945628a4cfe2fdc1e725de367048_size6.jpg",
       "rating": {"rate": 4.5, "count": 210}
     },
     {
@@ -324,7 +324,7 @@
       "price": 38.99,
       "description": "Comfortable wide leg pants.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=3840&q=100",
+      "image": "https://americantall.com/cdn/shop/files/American-Tall-Women-Pull-On-Breezy-Wide-Leg-Pant-Black-full.jpg?v=1704722942&width=1500",
       "rating": {"rate": 4.6, "count": 225}
     },
     {
@@ -333,7 +333,7 @@
       "price": 29.99,
       "description": "Fun graphic hoodie.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1519238263530-99bdd11df2ea?w=3840&q=100",
+      "image": "https://xcdn.next.co.uk/common/items/default/default/itemimages/3_4Ratio/product/lge/AA7960s.jpg?im=Resize,width=750",
       "rating": {"rate": 4.5, "count": 160}
     },
     {
@@ -351,7 +351,7 @@
       "price": 35.99,
       "description": "Minimalist tote bag.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1584917865442-de89df76afd3?w=3840&q=100",
+      "image": "https://passionleather.com/cdn/shop/files/14_eadaabc7-7682-472f-ba54-f2d55982b1d3.jpg?v=1727342413",
       "rating": {"rate": 4.7, "count": 295}
     },
     {
@@ -360,7 +360,7 @@
       "price": 23.99,
       "description": "Casual chino shorts.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1562157873-818bc0726f68?w=3840&q=100",
+      "image": "https://ashanderie.com/cdn/shop/files/chino-shorts-sage-breeze-5-lightweight-stretch-chino-short-44242933874986.jpg?v=1762458669&width=1080",
       "rating": {"rate": 4.2, "count": 135}
     },
     {
@@ -369,7 +369,7 @@
       "price": 52.99,
       "description": "Elegant satin dress.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1496747611176-843222e1e57c?w=3840&q=100",
+      "image": "https://www.rihoas.com/cdn/shop/files/25_8_13_Rihoas-1027-_1_2048x.jpg?v=1755572050",
       "rating": {"rate": 4.8, "count": 340}
     },
     {
@@ -378,7 +378,7 @@
       "price": 18.50,
       "description": "Soft pajama set.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1514090458221-65bb69cf63e6?w=3840&q=100",
+      "image": "https://kikiandluluco.com/cdn/shop/files/Girl_Wearing_Cherry_Print_Pajamas.png?v=1752689979&width=1445",
       "rating": {"rate": 4.3, "count": 125}
     },
     {
@@ -387,7 +387,7 @@
       "price": 74.99,
       "description": "Durable hiking boots.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1525966222134-fcfa99b8ae77?w=3840&q=100",
+      "image": "https://groupepronature.ca/cdn/shop/products/Bottesderandonnee-Homme-C13A1AP319019040_3000x3000.jpg?v=1650372610",
       "rating": {"rate": 4.7, "count": 310}
     },
     {
@@ -396,7 +396,7 @@
       "price": 28.99,
       "description": "Comfortable summer sandals.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1543163521-1bf539c55dd2?w=3840&q=100",
+      "image": "https://nostrain.in/cdn/shop/files/PCS-07_1.webp?v=1749729367&width=2048",
       "rating": {"rate": 4.4, "count": 175}
     },
     {
@@ -405,7 +405,7 @@
       "price": 13.99,
       "description": "Adjustable baseball cap.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1520974735194-8f0c9c45c8a7?w=3840&q=100",
+      "image": "https://janandjul.com/wp-content/uploads/HXP-LDG-1-1.jpg",
       "rating": {"rate": 4.2, "count": 118}
     },
     {
@@ -414,7 +414,7 @@
       "price": 41.99,
       "description": "Warm vintage knit sweater.",
       "category": "Men",
-      "image": "https://images.unsplash.com/photo-1512436991641-6745cdb1723f?w=3840&q=100",
+      "image": "https://m.media-amazon.com/images/I/71HT7SoPxZL.jpg",
       "rating": {"rate": 4.5, "count": 205}
     },
     {
@@ -423,7 +423,7 @@
       "price": 25.99,
       "description": "Comfortable denim shorts.",
       "category": "Women",
-      "image": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=3840&q=100",
+      "image": "https://levi.in/cdn/shop/files/A52580007_05_Side_17d0d9a0-9690-4d4a-9897-2babb59125bf.jpg?v=1724318781",
       "rating": {"rate": 4.4, "count": 188}
     },
     {
@@ -432,7 +432,7 @@
       "price": 32.99,
       "description": "Durable school shoes.",
       "category": "Kids",
-      "image": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?w=3840&q=100",
+      "image": "https://footwearmenders.com/cdn/shop/files/Generated_Image_May_30_2025_-_5_43PM-Photoroom.jpg?v=1748609171&width=1100",
       "rating": {"rate": 4.6, "count": 210}
     }
   ]
